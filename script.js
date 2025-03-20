@@ -10,6 +10,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
   }
   
+  
   // Close mobile menu when clicking on a link
   document.querySelectorAll('.nav-links a').forEach(link => {
     link.addEventListener('click', function() {
